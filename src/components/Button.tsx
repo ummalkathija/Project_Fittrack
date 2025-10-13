@@ -1,3 +1,4 @@
+"use client"
 import { forwardRef } from 'react';
 
 type ButtonVariant = 'primary' | 'secondary' | 'outline' | 'ghost' | 'danger';
